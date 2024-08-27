@@ -1,4 +1,4 @@
-# 🏷️ [Bitcoin Indonesia]
+# 🏷️ Bitcoin Indonesia
 
 ## 📍 Location
 - **Country:** [Indonesia]
