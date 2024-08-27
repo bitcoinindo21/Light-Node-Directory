@@ -1,5 +1,5 @@
 # 🏷️ [Bitcoin Indonesia]
-<[img src="https://bitcoinindonesia.xyz/wp-content/uploads/2024/02/Bitcoin-Indonesia-Logo-BLACK.png, width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
+https://bitcoinindonesia.xyz/wp-content/uploads/2024/02/Bitcoin-Indonesia-Logo-BLACK.png, width="300" alt="Logo or Picture of the Node">
 
 ## 📍 Location
 - **Country:** [Indonesia]
@@ -14,18 +14,18 @@ We’re an international team of 21 Bitcoiner, maily based in Indonesia, where w
 <img src="[https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/team_placeholder.png](https://x.com/btchousebali/status/1823638331915452620/photo/1)" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
-- **Dates of Graduations:** [Insert List of Graduation Dates Here]
-- **Number of Students Graduated:** [Insert Total Number of Students Here]
+- **Dates of Graduations:** 
+- **Number of Students Graduated:** 
 
 ## 🏆 Recent Achievements
-[Started MFB cohorts in Bali and Bandung]
+Started MFB cohorts in Bali and Bandung.
 
 ## 📞 Contact Information
-- **Website:** [https://bitcoinindonesia.xyz/]
-- **Email:** [info@bitcoinindonesia.xyz]
-- **WhatsApp:** [+62822-6626-0138]
-- **Telegram:** [Insert Telegram Contact Here]
-- **Phone:** [+62822-6626-0138]
+- **Website:** https://bitcoinindonesia.xyz/
+- **Email:** info@bitcoinindonesia.xyz
+- **WhatsApp:** +62822-6626-0138
+- **Telegram:** 
+- **Phone:** +62822-6626-0138
 
 ## 💰 Official Donation Link
-Support our activities by donating through [[insert your donation link here](https://geyser.fund/project/bitcoinhousebali)].
+Support our activities by donating through [[Geyser Fund link](https://geyser.fund/project/bitcoinhousebali)].
