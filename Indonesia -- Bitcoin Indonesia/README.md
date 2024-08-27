@@ -1,8 +1,8 @@
 # 🏷️ Bitcoin Indonesia
 
 ## 📍 Location
-- **Country:** [Indonesia]
-- **City:** [Bali and Bandung]
+- **Country:** Indonesia
+- **City:** Bali and Bandung
 
 ## 📖 About Us
 We are on a mission to empower Indonesia through Bitcoin. Our non-profit initiative aims to use Bitcoin as a tool to support human rights and financial sovereignty in Indonesia. We provide free and open-source education aiming to teach 100 million Indonesian people about Bitcoin by 2030.
