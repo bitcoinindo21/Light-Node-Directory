@@ -1,5 +1,4 @@
 # 🏷️ [Bitcoin Indonesia]
-https://bitcoinindonesia.xyz/wp-content/uploads/2024/02/Bitcoin-Indonesia-Logo-BLACK.png, width="300" alt="Logo or Picture of the Node">
 
 ## 📍 Location
 - **Country:** [Indonesia]
