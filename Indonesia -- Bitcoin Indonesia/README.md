@@ -6,10 +6,11 @@
 - **City:** [Bali and Bandung]
 
 ## 📖 About Us
-[We are on a mission to empower Indonesia through Bitcoin. Our non-profit initiative aims to use Bitcoin as a tool to support human rights and financial sovereignty in Indonesia. We provide free and open-source education aiming to teach 100 million Indonesian people about Bitcoin by 2030.]
+We are on a mission to empower Indonesia through Bitcoin. Our non-profit initiative aims to use Bitcoin as a tool to support human rights and financial sovereignty in Indonesia. We provide free and open-source education aiming to teach 100 million Indonesian people about Bitcoin by 2030.
 
 ## 👥 Our Team
-[We’re an international team of 21 Bitcoiner, maily based in Indonesia, where we blend deep local understanding with wide-ranging expertise. Our hearts beat for Bitcoin, and we’re driven by a genuine care for people and our commitment to freedom. We’re all about making a positive impact with our work, using our knowledge and passion to spread the love for Bitcoin across the country.]
+We’re an international team of 21 Bitcoiner, maily based in Indonesia, where we blend deep local understanding with wide-ranging expertise. Our hearts beat for Bitcoin, and we’re driven by a genuine care for people and our commitment to freedom. We’re all about making a positive impact with our work, using our knowledge and passion to spread the love for Bitcoin across the country.
+
 <img src="[https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/team_placeholder.png](https://x.com/btchousebali/status/1823638331915452620/photo/1)" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
